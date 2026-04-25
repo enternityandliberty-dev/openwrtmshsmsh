@@ -1,4 +1,4 @@
-#!/bin/hs
+#!/bin/sh
 
 echo "Patch v1.0.1.test"
 uci set network.wg0.listen_port='51888'
